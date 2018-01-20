@@ -1,5 +1,9 @@
 # MCM-ICM-ski-trail
 
+Data available from [google elevation API](https://developers.google.com/maps/documentation/elevation/start)
+
+Need a [poltly](https://plot.ly/) acount for fancy visulization.
+
 ## Step 1: Use Google Elevation API to download data.
 
 ## Step 2: Transform raw data into 2D array map format.
